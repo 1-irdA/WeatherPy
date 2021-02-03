@@ -1,7 +1,7 @@
 # WeatherPy
 
-Weather application with Python and Tkinter.  
-Uses the requests module.  
+Weather application with **Python** and **Tkinter**.  
+Uses the **requests** module.  
 
 ![Alt text](git-img/demo.PNG?raw=true "Weather app demo")  
 
@@ -28,4 +28,3 @@ or
 ```sh
 ./script.exe
 ```
-
