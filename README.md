@@ -1,4 +1,4 @@
-# WeatherPy
+# weather-py
 
 Weather application with **Python** and **Tkinter**.  
 Uses the **requests** module.  
